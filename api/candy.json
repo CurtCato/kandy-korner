@@ -1,0 +1,62 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "500 Circle Way"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "10101 Binary Court"
+    }
+  ],
+  "employees": [
+    {
+      "id": 2,
+      "name": "Jordan Nelson"
+    },
+    {
+      "id": 3,
+      "name": "Feeble Meeble"
+    },
+    {
+      "id": 4,
+      "name": "Ron Burgundy"
+    },
+    {
+      "id": 5,
+      "name": "Statutory Grape"
+    }
+  ],
+  "candyTypes": [
+    {
+      "id": 1,
+      "name": "chocolate"
+    },
+    {
+      "id": 2,
+      "name": "fruity"
+    },
+    {
+      "id": 3,
+      "name": "frozen"
+    },
+    {
+      "id": 4,
+      "name": "sweet"
+    }
+  ],
+  "candies": [
+    {
+      "id": 1,
+      "name": "SugarDaddy",
+      "candyTypeId": 4
+    },
+    {
+      "id": 3,
+      "name": "SugarDaddy",
+      "candyTypeId": 4
+    }
+  ]
+}
